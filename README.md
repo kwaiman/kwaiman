@@ -2,7 +2,9 @@
 - 👀 I’m interested in data analytics, visualization and machine learning
 - 🌱 I’m currently learning Apache Airflow and dbt
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: 
+  * email: k.wai.man23@gmail.com
+  * LinkedIn: linkedin.com/kwman
 
 <!---
 kwaiman/kwaiman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
